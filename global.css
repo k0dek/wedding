@@ -1,4 +1,7 @@
 body {
-  margin: 0;
-  line-height: normal;
+    margin: 0;
+    line-height: normal;
+}
+.root {
+    max-width: 450px;
 }
