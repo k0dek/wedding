@@ -1124,7 +1124,7 @@ plan-of-the1 {
     letter-spacing: normal;
 }
 .frame-container {
-    font-family: "Palatino", serif;
+    font-family: "Palatino", serif !important;
     display: flex !important;
     justify-content: center;
     align-items: center;

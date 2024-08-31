@@ -1209,7 +1209,7 @@ plan-of-the1 {
   align-items: center;
   margin-top: 3px;
   padding: 0;
-  font-family: Palatino, serif;
+  font-family: Palatino, serif !important;
   display: flex !important;
 }
 
