@@ -1182,4 +1182,37 @@ plan-of-the1 {
 .root {
   gap: 130px;
 }
+
+.frame-wrapper {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  min-width: 30px !important;
+  max-width: 30px !important;
+  min-height: 30px !important;
+  max-height: 30px !important;
+}
+
+.v-parent {
+  letter-spacing: normal;
+  width: auto;
+}
+
+.v, .icon {
+  letter-spacing: normal;
+}
+
+.frame-container {
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  display: flex !important;
+}
+
+.n {
+  min-width: none;
+  letter-spacing: normal;
+  text-align: center;
+  width: auto;
+}
 /*# sourceMappingURL=index.9e4c6fd2.css.map */
