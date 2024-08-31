@@ -1205,7 +1205,9 @@ plan-of-the1 {
 .frame-container {
   justify-content: center;
   align-items: center;
+  margin-top: 3px;
   padding: 0;
+  font-family: Palatino, serif;
   display: flex !important;
 }
 
