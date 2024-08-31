@@ -1186,6 +1186,8 @@ plan-of-the1 {
 .frame-wrapper {
   justify-content: center;
   align-items: center;
+  width: 30px;
+  height: 300px;
   display: flex;
   min-width: 30px !important;
   max-width: 30px !important;

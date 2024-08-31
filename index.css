@@ -1105,6 +1105,8 @@ plan-of-the1 {
 }
 
 .frame-wrapper {
+    width: 30px;
+    height: 300px;
     min-width: 30px !important;
     min-height: 30px !important;
     max-width: 30px !important;
